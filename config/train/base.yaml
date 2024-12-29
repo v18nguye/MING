@@ -1,0 +1,19 @@
+proj: null
+name_exp: null
+
+bsize: 32 
+seed: 2017
+lr_outloop: 0.0001 
+lr_inloop: 0.0001
+num_inner_steps: 3
+lr_patience: 100
+
+max_epochs: 1000
+patience: 300
+reg_z: false # regularization on z
+
+offline: false # wandb
+
+measure_on: null
+check_val_every_n_epoch: 2
+loss_weight: 0.001

@@ -1,0 +1,7 @@
+ckpts/
+ming/processed_data/
+ming/data/
+__pycache__/
+outputs/
+_README.md
+*.out

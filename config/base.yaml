@@ -1,0 +1,4 @@
+defaults:
+    - model : base
+    - train: base
+    - data: zinc

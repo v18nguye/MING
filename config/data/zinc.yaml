@@ -1,0 +1,3 @@
+name: ZINC250k
+output_node: 10 # 9 atoms + 1 virtual node
+output_edge: 4 # 3 bonds + 1 virtual node

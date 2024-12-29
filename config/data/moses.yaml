@@ -1,0 +1,3 @@
+name: MOSES
+output_node: 8 # 7 atoms + 1 virtual node
+output_edge: 5 # 4 bonds + 1 virtual node

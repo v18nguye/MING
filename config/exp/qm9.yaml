@@ -1,0 +1,26 @@
+# @package _global_
+model:
+  beta_end: 0.02
+  beta_schedule: linear
+  beta_start: 0.0001
+  hidden_dim: 256
+  latent_dim: 64
+  n_fourier: 7
+  n_layers: 8
+  num_diffusion_timesteps: 100
+train:
+  bsize: 256
+  check_val_every_n_epoch: 10
+  loss_weight: 0.001
+  lr_inloop: 0.1
+  lr_outloop: 0.0001
+  lr_patience: 30
+  max_epochs: 500
+  name_exp: qm9
+  num_inner_steps: 3
+  offline: false
+  patience: 100
+  proj: exp
+  measure_on: val/FCD
+  reg_z: false
+  seed: 2017
