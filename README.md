@@ -88,10 +88,12 @@ sh setup.sh -t ckpt
 Please refer to our work if you find our paper with the released code useful in your research. Thank you!
 
 ```
-@article{nguyen2024ming,
-  title={MING: A Functional Approach to Learning Molecular Generative Models},
-  author={Nguyen, Van Khoa and Falkiewicz, Maciej and Mercatali, Giangiacomo and Kalousis, Alexandros},
-  journal={arXiv preprint arXiv:2410.12522},
-  year={2024}
+@inproceedings{
+nguyen2025ming,
+title={{MING}: A Functional Approach to Learning Molecular Generative Models},
+author={Van Khoa Nguyen and Maciej Falkiewicz and Giangiacomo Mercatali and Alexandros Kalousis},
+booktitle={The 28th International Conference on Artificial Intelligence and Statistics},
+year={2025},
+url={https://openreview.net/forum?id=ofoxdvlzAZ}
 }
 ```
