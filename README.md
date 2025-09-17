@@ -82,18 +82,3 @@ To download our model checkpoints, run:
 ```sh
 sh setup.sh -t ckpt
 ```
-
-## Citation
-
-Please refer to our work if you find our paper with the released code useful in your research. Thank you!
-
-```
-@inproceedings{
-nguyen2025ming,
-title={{MING}: A Functional Approach to Learning Molecular Generative Models},
-author={Van Khoa Nguyen and Maciej Falkiewicz and Giangiacomo Mercatali and Alexandros Kalousis},
-booktitle={The 28th International Conference on Artificial Intelligence and Statistics},
-year={2025},
-url={https://openreview.net/forum?id=ofoxdvlzAZ}
-}
-```
